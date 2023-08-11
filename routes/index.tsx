@@ -15,9 +15,8 @@ export default function Home() {
           class="w-32 h-32"
           alt="the fresh logo: a sliced lemon dripping with juice"
         />
-        <p class="my-6">
-          Welcome to `fresh`. Try updating this message in the
-          ./routes/index.tsx file, and refresh.
+        <p class="my-6 font-bold text-4xl text-[#0f0] uppercase">
+          hello world
         </p>
         <Counter count={count} />
       </div>
